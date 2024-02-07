@@ -1,0 +1,30 @@
+<!-- Hero -->
+<section id="seccion-hero" class="hero align-items-stretch">
+    <div class="hero-principal d-flex flex-column justify-content-center align-items-center">
+        <div>
+            <img class="hero-imagen-desarrollador" [src]="imgPerfil" alt="Foto de Juan Jose Cifuentes"
+                width="30%" height="30%">
+            <!-- <button *ngIf="modoEdit" type="button" class="btn boton-edit" routerLink="editpersona/{{persona.id}}"><i class="bi bi-pencil"></i></button> -->
+        </div>
+        <div>
+            <!--<button *ngIf="modoEdit" type="button" class="btn boton-edit" routerLink="editpersona/{{persona.id}}"><i class="bi bi-pencil"></i></button> -->
+            <h1>Hola, soy {{name}} {{lastName}}</h1>
+            <h2>{{title}}</h2>
+        </div>
+    </div>
+    <div class="hero-inferior">
+        <img class="hero-inferior-imagen img-fluid" [src]="imgBanner2"
+            alt="Desarrollo web, HTML, CSS, JavaScript">
+        <!-- <button *ngIf="modoEdit" type="button" class="btn" routerLink="editpersona/{{persona.id}}"><i
+                class="bi bi-pencil"></i></button> -->
+    </div>
+</section>
+
+<!-- Sobre mi -->
+<section id="seccion-sobre-mi" class="sobre-mi seccion-oscura">
+    <div class="contenedor">
+        <!-- <button *ngIf="modoEdit" type="button" class="btn boton-edit boton-edit-blanco" routerLink="editpersona/{{persona.id}}"><i class="bi bi-pencil"></i></button> -->
+        <h2 class="seccion-titulo">Conoce a {{name}} <!-- {{lastName}} --></h2>
+        <p class="seccion-texto">{{descripcion}}</p>
+    </div>
+</section>

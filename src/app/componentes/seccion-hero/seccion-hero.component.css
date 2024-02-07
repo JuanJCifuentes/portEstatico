@@ -1,0 +1,49 @@
+/* Seccion Hero */
+
+.hero {
+    background-color: white;
+    min-height: 450px;
+    text-align: center;
+}
+
+.hero-principal {
+    padding: 3rem;
+}
+
+.hero-principal h2 {
+    font-size: 1.5rem;
+    color: #615151;
+}
+
+.hero-imagen-desarrollador {
+    width: 230px;
+    height: 190px;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+.hero-inferior-imagen {
+    margin-bottom: 20px;
+    border-radius: 30%;
+}
+
+/* Sobre mi */
+
+.sobre-mi {
+    height: 500px;
+    padding: 10px;
+    border-radius: 10%;
+}
+
+
+.sobre-mi .contenedor {
+    max-width: 600px;
+    text-align: center;
+}
+
+
+@media screen and (min-width: 400px) {
+    .hero-inferior-imagen {
+        max-width: 400px;
+    }
+}
