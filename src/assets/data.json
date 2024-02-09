@@ -1,145 +1,141 @@
 {
-    "nombre":"Juan Jose",
-    "apellido":"Cifuentes",
-    "imagenPerfil":"../assets/images/fotoPerfil3.png",
-    "titulo":"Desarrollador web Full Stack Jr",
-    "imagenBanner":"../assets/images/desarrolloweb.png",
-    "imagenBanner2":"../assets/images/imagenPrueba2.jpg",
-    "sobreMi":"Estoy expectante por poder adquirir experiencia y adhentrarme en el mundo laboral de la carrera que elegi y me apasiona, preparado para brindar mis conocimientos al mismo tiempo que me nutro de nuevas experiencias y poder crecer en conjunto. Busco comenzar con mi carrera laboral ya que me entusiasma crecer, aprender y aportar lo mejor de mi en la compañia.",
-
-    "estudios":[
+    "nombre": "Juan Jose",
+    "apellido": "Cifuentes",
+    "imagenPerfil": "../assets/images/fotoPerfil3.png",
+    "titulo": "Full Stack developer Jr",
+    "imagenBanner": "../assets/images/desarrolloweb.png",
+    "imagenBanner2": "../assets/images/imagenPrueba2.jpg",
+    "sobreMi": "Me considero una persona proactiva y responsable, con buenas relaciones interpersonales y apasionado por lo que me gusta. Preparado para brindar mis conocimientos al mismo tiempo que me nutro de nuevas experiencias y poder crecer en conjunto.",
+    "estudios": [
         {
-            "id":1,
-            "titulo":"Tecnico Electromecanico",
-            "institucion":"E.P.E.T 8",
-            "inicio":"febrero-2010",
-            "fin":"diciembre-2016",
-            "descripcion":"Secundario tecnico realizado en su totalidad y graduado con honores representando a la bandera provincial de Neuquen entre los mejores promedios de la escuela."
+            "id": 1,
+            "titulo": "Lic. Sistemas de Informacion",
+            "institucion": "Universidad Nacional del Comahue",
+            "inicio": "febrero-2021",
+            "fin": "abril-2022",
+            "descripcion": "Carrera en sistemas de la UNCo el cual realicé 1 año completo, quede encantado y pude aprender las bases fundamentales de la programacion y la computacion, que es un DER y como hacerlo, Algoritmos en Pseudocodigo, POO, Java y muchas cosas mas!"
         },
         {
-            "id":2,
-            "titulo":"Ingenieria Electronica",
-            "institucion":"Universidad Nacional del Comahue",
-            "inicio":"febrero-2017",
-            "fin":"diciembre-2020",
-            "descripcion":"aaaaaaaaaaaaaaaaaaaaa"
+            "id": 2,
+            "titulo": "Ingenieria Electronica",
+            "institucion": "Universidad Nacional del Comahue",
+            "inicio": "febrero-2017",
+            "fin": "diciembre-2020",
+            "descripcion": "Carrera de Ingenieria Electronica de la UNCo, la cual curse 3 años y pude aprender y aplicar conceptos avanzados de analisis matematico, algebra, fisica, dibujo y quimica."
         },
         {
-            "id":3,
-            "titulo":"Lic. Sistemas de Informacion",
-            "institucion":"Universidad Nacional del Comahue",
-            "inicio":"febrero-2021",
-            "fin":"abril-2022",
-            "descripcion":".aaaaaaaaaaaaaaaaaaaa"
+            "id": 3,
+            "titulo": "Tecnico Electromecanico",
+            "institucion": "E.P.E.T 8",
+            "inicio": "febrero-2010",
+            "fin": "diciembre-2016",
+            "descripcion": "Secundario tecnico realizado en su totalidad y graduado representando con honor a la bandera provincial de Neuquen."
         },
         {
-            "id":4,
-            "titulo":"Desarrollo web Full Stack",
-            "institucion":"Argentina Programa",
-            "inicio":"febrero-2022",
-            "fin":"marzo-2023",
-            "descripcion":".aaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+            "id": 4,
+            "titulo": "Desarrollo web Full Stack",
+            "institucion": "Argentina Programa",
+            "inicio": "febrero-2022",
+            "fin": "marzo-2023",
+            "descripcion": "Curso de programador Full Stack realizado con una duracion de 1 año del programa 'Argentina Programa'"
         }
     ],
-
-    "desarrolloweb":[
+    "desarrolloweb": [
         {
-            "id":1,
-            "sector":"BackEnd",
-            "fecha":"2022",
-            "lenguajes":"////// - JAVA - json - MySQL - SQL - Base de Datos Relacionales"
+            "id": 1,
+            "sector": "BackEnd",
+            "fecha": "2022",
+            "lenguajes": "JAVA - JSON - MySQL - SQL - Docker - NodeJs - Base de Datos Relacionales"
         },
         {
-            "id":2,
-            "sector":"FrontEnd",
-            "fecha":"2021",
-            "lenguajes":"HTML - JavaScript - CSS - Bootstrap"
+            "id": 2,
+            "sector": "FrontEnd",
+            "fecha": "2021",
+            "lenguajes": "HTML - JavaScript - TypeScript - CSS - Bootstrap"
         },
         {
-            "id":3,
-            "sector":"Frameworks",
-            "fecha":"2022",
-            "lenguajes":"Angular - SpringBoot - Firebase"
+            "id": 3,
+            "sector": "Frameworks",
+            "fecha": "2022",
+            "lenguajes": "Angular - Spring - Firebase - Clever cloud - Render"
         }
     ],
-
-    "experiencias":[
+    "experiencias": [
         {
-            "id":1,
-            "sector":"Fotocabina Servicio para Eventos",
-            "institucion":"Digan Whisky Fotocabina",
-            "inicio":"marzo-2017",
-            "fin":"enero-2020",
-            "descripcion":"Supervicion a cargo y manejo del servicio en los eventos, Atencion al cliente, Sugerencia de contrataciones, Reparacion de Software y Hardware utilizado, etc."
+            "id": 1,
+            "sector": "Fotocabina Servicio para Eventos",
+            "institucion": "Digan Whisky Fotocabina",
+            "inicio": "marzo-2017",
+            "fin": "enero-2020",
+            "descripcion": "Supervicion a cargo y manejo del servicio en los eventos, Atencion al cliente, Sugerencia de contrataciones, Reparacion de Software y Hardware utilizado, etc."
         },
         {
-            "id":2,
-            "sector":"Empleado Comercio Local",
-            "institucion":"Minimercado Onda Verde",
-            "inicio":"febrero-2016",
-            "fin":"mayo-2017",
-            "descripcion":"Encargado del local, Atencion al cliente, Recepcion e inspeccion de mercaderia, Limpieza general, Apertura y Cierre del local, etc."
+            "id": 2,
+            "sector": "Schlumberger Recruiting Process, Tecnico Electromecanico.",
+            "institucion": "Base de Operaciones Schlumberger, Neuquen Capital.",
+            "inicio": "noviembre-2016",
+            "fin": "noviembre-2016",
+            "descripcion": "Proceso de reclutamiento en el campus de Schlumberger, Asistiendo durante 3 dias superando previos procesos de seleccion y distintas evaluaciones de conocimiento. En el campus pudimos aprender principalmente sobre las funciones de la empresa y sus distintos sectores principales, ademas del manejo del idioma Ingles."
         },
         {
-            "id":3,
-            "sector":"Schlumberger Recruiting Process, Tecnico Electromecanico.",
-            "institucion":"Base de Operaciones Schlumberger, Neuquen Capital.",
-            "inicio":"noviembre-2016",
-            "fin":"noviembre-2016",
-            "descripcion":"Proceso de reclutamiento en el campus de Schlumberger, Asistiendo durante 3 dias superando previos procesos de seleccion y distintas evaluaciones de conocimiento. En el campus pudimos aprender principalmente sobre la Empresa y sus distintas bases principales, ademas del manejo del idioma Ingles."
+            "id": 3,
+            "sector": "Empleado Comercio Local",
+            "institucion": "Minimercado Onda Verde",
+            "inicio": "febrero-2016",
+            "fin": "diciembre-2016",
+            "descripcion": "Encargado del local, Atencion al cliente, Recepcion e inspeccion de mercaderia, Limpieza general, Apertura y Cierre del local, etc."
         }
     ],
-
-    "habilidades":[
+    "habilidades": [
         {
-            "lenguaje":"HTML",
-            "value":"80"
+            "lenguaje": "HTML",
+            "value": "80"
         },
         {
-            "lenguaje":"CSS",
-            "value":"70"
+            "lenguaje": "CSS",
+            "value": "70"
         },
         {
-            "lenguaje":"JavaScript",
-            "value":"65"
+            "lenguaje": "JavaScript",
+            "value": "65"
         },
         {
-            "lenguaje":"Bootstrap",
-            "value":"70"
+            "lenguaje": "Bootstrap",
+            "value": "70"
         },
         {
-            "lenguaje":"Angular",
-            "value":"75"
+            "lenguaje": "Angular",
+            "value": "75"
         },
         {
-            "lenguaje":"MySQL",
-            "value":"60"
+            "lenguaje": "MySQL",
+            "value": "60"
         },
         {
-            "lenguaje":"JSON",
-            "value":"90"
+            "lenguaje": "JSON",
+            "value": "90"
         },
         {
-            "lenguaje":"Ingles - Speak/Listen/Write/Read",
-            "value":"70"
+            "lenguaje": "Ingles - Nivel oral intermedio y escrito avanzado",
+            "value": "70"
         },
         {
-            "lenguaje":"Español - Nativo",
-            "value":"95"
+            "lenguaje": "Español - Nativo",
+            "value": "95"
         },
         {
-            "lenguaje":"Portugues - Aficionado",
-            "value":"15"
+            "lenguaje": "Portugues - Aficionado",
+            "value": "15"
         }
     ],
-
-    "proyectos":[
+    "proyectos": [
         {
-        "nombre":"Mi Portfolio",
-        "fecha":"2023",
-        "imagenProyecto":"../assets/images/fotoProyecto.jpg",
-        "urlProyecto":"#",
-        "urlGithub":"https://github.com/JuanJCifuentes/"
+            "id": 1,
+            "nombre": "My Dinamic Portfolio",
+            "fecha": "2023",
+            "imagenProyecto": "../assets/images/fotoProyecto.jpg",
+            "urlProyecto": "https://github.com/JuanJCifuentes/bakendPortfolio",
+            "urlGithub": "https://github.com/JuanJCifuentes/angularPortfolio"
         }
     ]
 }
