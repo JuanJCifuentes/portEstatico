@@ -136,6 +136,14 @@
             "imagenProyecto": "../assets/images/fotoProyecto.jpg",
             "urlProyecto": "https://github.com/JuanJCifuentes/bakendPortfolio",
             "urlGithub": "https://github.com/JuanJCifuentes/angularPortfolio"
+        },
+        {
+            "id": 2,
+            "nombre": "Basic Calculator",
+            "fecha": "2024",
+            "imagenProyecto": "../assets/images/calculadoraProyecto.png",
+            "urlProyecto": "https://micalc-jc.web.app/",
+            "urlGithub": "https://github.com/JuanJCifuentes/basicCalculator"
         }
     ]
 }
