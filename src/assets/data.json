@@ -89,7 +89,7 @@
     "habilidades": [
         {
             "lenguaje": "HTML",
-            "value": "80"
+            "value": "75"
         },
         {
             "lenguaje": "CSS",
@@ -97,7 +97,7 @@
         },
         {
             "lenguaje": "JavaScript",
-            "value": "65"
+            "value": "60"
         },
         {
             "lenguaje": "Bootstrap",
@@ -108,12 +108,16 @@
             "value": "75"
         },
         {
+            "lenguaje": "SQL",
+            "value": "80"
+        },
+        {
             "lenguaje": "MySQL",
             "value": "60"
         },
         {
             "lenguaje": "JSON",
-            "value": "90"
+            "value": "80"
         },
         {
             "lenguaje": "Ingles - Nivel oral intermedio y escrito avanzado",
@@ -131,7 +135,7 @@
     "proyectos": [
         {
             "id": 1,
-            "nombre": "My Dinamic Portfolio",
+            "nombre": "My Dinamic Portfolio with JAVA",
             "fecha": "2023",
             "imagenProyecto": "../assets/images/fotoProyecto.jpg",
             "urlProyecto": "https://github.com/JuanJCifuentes/bakendPortfolio",
