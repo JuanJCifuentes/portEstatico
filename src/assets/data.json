@@ -13,7 +13,7 @@
             "institucion": "Universidad Nacional del Comahue",
             "inicio": "febrero-2021",
             "fin": "abril-2022",
-            "descripcion": "Carrera en sistemas de la UNCo el cual realicé 1 año completo, quede encantado y pude aprender las bases fundamentales de la programacion y la computacion, que es un DER y como hacerlo, Algoritmos en Pseudocodigo, POO, Java y muchas cosas mas!"
+            "descripcion": "Carrera en sistemas de la UNCo el cual realicé 1 año completo, quede encantado y pude aprender las bases fundamentales de la programación y la computación, qué es un DER y cómo hacerlo, Algoritmos en Pseudocódigo, POO, Java y muchas cosas más!"
         },
         {
             "id": 2,
@@ -21,7 +21,7 @@
             "institucion": "Universidad Nacional del Comahue",
             "inicio": "febrero-2017",
             "fin": "diciembre-2020",
-            "descripcion": "Carrera de Ingenieria Electronica de la UNCo, la cual curse 3 años y pude aprender y aplicar conceptos avanzados de analisis matematico, algebra, fisica, dibujo y quimica."
+            "descripcion": "Carrera de Ingeniería Electrónica de la UNCo, la cual curse 3 años y pude aprender y aplicar conceptos avanzados de análisis matemático, álgebra, física, dibujo y química."
         },
         {
             "id": 3,
@@ -29,7 +29,7 @@
             "institucion": "E.P.E.T 8",
             "inicio": "febrero-2010",
             "fin": "diciembre-2016",
-            "descripcion": "Secundario tecnico realizado en su totalidad y graduado representando con honor a la bandera provincial de Neuquen."
+            "descripcion": "Secundario técnico realizado en su totalidad y graduado representando con honor a la bandera provincial de Neuquén."
         },
         {
             "id": 4,
@@ -37,7 +37,7 @@
             "institucion": "Argentina Programa",
             "inicio": "febrero-2022",
             "fin": "marzo-2023",
-            "descripcion": "Curso de programador Full Stack realizado con una duracion de 1 año del programa 'Argentina Programa'"
+            "descripcion": "Curso de programador Full Stack realizado con una duración de 1 año del programa 'Argentina Programa'"
         }
     ],
     "desarrolloweb": [
@@ -45,7 +45,7 @@
             "id": 1,
             "sector": "BackEnd",
             "fecha": "2022",
-            "lenguajes": "JAVA - JSON - MySQL - SQL - Docker - NodeJs - Base de Datos Relacionales"
+            "lenguajes": "JAVA - JSON - MySQL - SQL - Docker - Base de Datos Relacionales"
         },
         {
             "id": 2,
@@ -57,7 +57,7 @@
             "id": 3,
             "sector": "Frameworks",
             "fecha": "2022",
-            "lenguajes": "Angular - Spring - Firebase - Clever cloud - Render"
+            "lenguajes": "Angular - Spring - NodeJS - Postman - XAMPP - Firebase - Clever cloud - Render"
         }
     ],
     "experiencias": [
@@ -67,7 +67,7 @@
             "institucion": "Digan Whisky Fotocabina",
             "inicio": "marzo-2017",
             "fin": "enero-2020",
-            "descripcion": "Supervicion a cargo y manejo del servicio en los eventos, Atencion al cliente, Sugerencia de contrataciones, Reparacion de Software y Hardware utilizado, etc."
+            "descripcion": "Supervición a cargo y manejo del servicio en los eventos, Atención al cliente, Sugerencia de contrataciones, Reparación de Software y Hardware utilizado, etc."
         },
         {
             "id": 2,
@@ -75,7 +75,7 @@
             "institucion": "Base de Operaciones Schlumberger, Neuquen Capital.",
             "inicio": "noviembre-2016",
             "fin": "noviembre-2016",
-            "descripcion": "Proceso de reclutamiento en el campus de Schlumberger, Asistiendo durante 3 dias superando previos procesos de seleccion y distintas evaluaciones de conocimiento. En el campus pudimos aprender principalmente sobre las funciones de la empresa y sus distintos sectores principales, ademas del manejo del idioma Ingles."
+            "descripcion": "Proceso de reclutamiento en el campus de Schlumberger, Asistiendo durante 3 dias superando previos procesos de selección y distintas evaluaciones de conocimiento. En el campus pudimos aprender principalmente sobre las funciones de la empresa y sus distintos sectores principales, además del manejo del idioma Inglés."
         },
         {
             "id": 3,
@@ -83,7 +83,7 @@
             "institucion": "Minimercado Onda Verde",
             "inicio": "febrero-2016",
             "fin": "diciembre-2016",
-            "descripcion": "Encargado del local, Atencion al cliente, Recepcion e inspeccion de mercaderia, Limpieza general, Apertura y Cierre del local, etc."
+            "descripcion": "Encargado del local, Atención al cliente, Recepción e inspección de mercaderia, Limpieza general, Apertura y Cierre del local, etc."
         }
     ],
     "habilidades": [
@@ -92,8 +92,12 @@
             "value": "75"
         },
         {
+            "lenguaje": "JAVA",
+            "value": "80"
+        },
+        {
             "lenguaje": "CSS",
-            "value": "70"
+            "value": "65"
         },
         {
             "lenguaje": "JavaScript",
@@ -113,7 +117,7 @@
         },
         {
             "lenguaje": "MySQL",
-            "value": "60"
+            "value": "70"
         },
         {
             "lenguaje": "JSON",
@@ -124,10 +128,6 @@
             "value": "70"
         },
         {
-            "lenguaje": "Español - Nativo",
-            "value": "95"
-        },
-        {
             "lenguaje": "Portugues - Aficionado",
             "value": "15"
         }
@@ -135,7 +135,7 @@
     "proyectos": [
         {
             "id": 1,
-            "nombre": "My Dinamic Portfolio with JAVA",
+            "nombre": "My Dynamic Portfolio with JAVA",
             "fecha": "2023",
             "imagenProyecto": "../assets/images/fotoProyecto.jpg",
             "urlProyecto": "https://github.com/JuanJCifuentes/bakendPortfolio",

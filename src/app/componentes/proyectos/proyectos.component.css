@@ -16,7 +16,7 @@
 }
 
 .proyectos-contenedor {
-    width: 20%;
+    width: 25%;
     padding-top: 60px;
     margin-bottom: 40px;
     margin-left: 40px;
@@ -34,7 +34,7 @@
 }
 
 .overlay p {
-    font-size: 20px;
+    font-size: 15px;
     font-weight: bold;
     margin-bottom: 0;
 }
@@ -58,7 +58,7 @@
 .overlay i {
     color: black;
     font-size: 40px;
-    margin: 10px;
+    margin: 20px;
 }
 
 @media screen and (max-width: 569px) {
@@ -69,7 +69,7 @@
 
 @media screen and (max-width: 600px) {
     .overlay p {
-        font-size: 18px;
+        font-size: 15px;
     }
 
     .overlay i {
